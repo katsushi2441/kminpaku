@@ -179,7 +179,7 @@ function head_html($title, $desc, $canon) {
     echo '<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="' . h($OGP) . '">';
     echo '<style>'
        . ':root{--ink:#12202f;--mut:#5d6b7a;--teal:#0a9a8f;--teal-d:#087f76;--teal-l:#e6f4f2;--line:#dfe7ec;--bg:#f5f8fa;--red:#c0392b;--red-l:#fdecea;--amber:#b7791f;--amber-l:#fdf6e3}'
-       . '*{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.85 "Noto Sans JP",system-ui,sans-serif}'
+       . '*{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.85 "Noto Sans JP",system-ui,sans-serif}a,.src{overflow-wrap:anywhere}'
        . 'a{color:var(--teal-d)}.wrap{width:min(920px,100% - 32px);margin:0 auto}'
        . 'header.top{background:#fff;border-bottom:1px solid var(--line)}header.top .wrap{display:flex;align-items:center;gap:14px;flex-wrap:wrap;min-height:56px}'
        . '.brand{font-weight:800;color:var(--ink);text-decoration:none}nav a{color:var(--mut);text-decoration:none;font-size:14px;font-weight:600;margin-right:12px}'
