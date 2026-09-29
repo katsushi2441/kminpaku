@@ -1,0 +1,12 @@
+*.env
+.env.*
+*.bak
+outputs/
+data/*.zip
+data/*.geojson
+data/*.sqlite
+data/*.sqlite-*
+php/kminpaku_data/*.sqlite
+__pycache__/
+store/apps_*.json
+pv/

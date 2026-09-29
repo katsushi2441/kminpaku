@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 EXBRIDGE, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+同梱データ（kminpaku_data/*.sqlite）について:
+
+用途地域は、国土交通省 都市局「都市計画決定GISデータ（全国）」令和7年度版を加工したものです。
+  https://www.mlit.go.jp/toshi/tosiko/toshi_tosiko_tk_000087.html
+出典サイトには「掲載データは、建築確認申請や不動産重要事項説明等の手続に用いることを
+保証するものではなく、参考情報として利用を想定しています」と明記されています。
+画面と配布物の出典表記は外さずにお使いください。
+
+上乗せ条例の一覧は、一般財団法人 地方自治研究機構「民泊（住宅宿泊事業）に関する条例」から、
+区域・期間の制限の中身は、観光庁「民泊の実施制限に関する地方公共団体の条例のとりまとめに
+ついて」（令和3年4月1日時点）から取っています。条例の文は要約せず原文のまま収録しています。
+
+本システムの判定は、公開データを住所の代表点で照らした参考情報です。営業の可否を示すもの
+ではなく、公的な証明でもありません。最後は必ず自治体の窓口でご確認ください。
